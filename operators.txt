@@ -1,0 +1,10 @@
+aws-efs-operator.v0.0.8
+kiali-operator.v1.36.5
+compliance-operator.v0.1.47
+openshift-gitops-operator.v1.4.1
+datagrid-operator.v8.2.8
+jaeger-operator.v1.24.1
+servicemeshoperator.v2.0.8
+3scale-operator.v0.7.0
+splunk-forwarder-operator.v0.1.299-a68db6
+
